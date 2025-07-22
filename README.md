@@ -11,6 +11,8 @@ I’m a Civil Engineer transitioning into Data Analytics and Data Engineering. C
 - **Machine Learning:** Decision trees, random forests, gradient boosting ensembles
 
 ## 📊 Featured Projects
+- [Poverty Prediction Model - ECH 2022](poverty_model_evaluation_ECH2022.ipynb)  
+  Benchmark de clasificadores y stacking aplicado al dataset del INE. Incluye evaluación de métricas, visualización de importancia de variables y preprocesamiento reproducible.
 
 ## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/alejandro-diaz  
