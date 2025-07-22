@@ -12,8 +12,8 @@ I’m a Civil Engineer transitioning into Data Analytics and Data Engineering. C
 
 ## 📊 Featured Projects
 - [Poverty Prediction Model - ECH 2022](poverty_model_evaluation_ECH2022.ipynb)  
-  Benchmark de clasificadores y stacking aplicado al dataset del INE. Incluye evaluación de métricas, visualización de importancia de variables y preprocesamiento reproducible.
-
+  Benchmarking classifiers and stacking applied to the INE dataset. Includes metric evaluation, feature importance visualization, and reproducible preprocessing.
+  
 ## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/alejandro-diaz  
 - Email: alediaz1526@gmail.com  
