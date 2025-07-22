@@ -11,8 +11,11 @@ I’m a Civil Engineer transitioning into Data Analytics and Data Engineering. C
 - **Machine Learning:** Decision trees, random forests, gradient boosting ensembles
 
 ## 📊 Featured Projects
-- [Poverty Prediction Model - ECH 2022](poverty_model_evaluation_ECH2022.ipynb)  
+- [Poverty Prediction Model - ECH 2022](https://github.com/alee1526/Poverty-Prediction-Model-for-Uruguay-ECH-2022-.git)  
   Benchmarking classifiers and stacking applied to the INE dataset. Includes metric evaluation, feature importance visualization, and reproducible preprocessing.
+  
+- [Income Prediction Using Regression](https://github.com/alee1526/Income-Prediction-Using-Regression.git)
+  Regression-based model for predicting labor income in Uruguay using ECH 2017 data, with linear, Ridge, and Lasso techniques focused on accuracy, feature relevance, and interpretability.
   
 ## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/alejandro-diaz  
