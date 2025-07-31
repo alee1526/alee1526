@@ -20,7 +20,7 @@ I’m a Civil Engineer transitioning into Data Analytics and Data Engineering. C
   Regression-based model for predicting labor income in Uruguay using ECH 2017 data, with linear, Ridge, and Lasso techniques focused on accuracy, feature relevance, and interpretability.
   
 ## 📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/alejandro-diaz  
+- LinkedIn: https://www.linkedin.com/in/alejandro-d%C3%ADaz-788340179/
 - Email: alediaz1526@gmail.com  
 
 ---
